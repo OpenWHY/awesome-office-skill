@@ -1,2 +1,3 @@
-# awesome-office-skill
-Share some common skills of office software.
+# 办公物语
+
+分享一些办公软件的常用技巧
